@@ -1,0 +1,19 @@
+.error {
+    text-align: center;
+  }
+  .error > h2 {
+    font-size: 3em;
+    margin-top: 80px;
+  }
+  .error > p {
+    font-size: 2em;
+    font-weight: 400;
+  }
+  .btn {
+    display: inline-block;
+    background: #D42990;
+    padding: 10px 16px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: 500;
+  }
